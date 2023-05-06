@@ -54,7 +54,7 @@ anyWordButton.textContent = 'search with any word'
 input.placeholder = 'search country ...'
 videoBg.autoplay = 'true'
 videoBg.loop = 'true'
-videoBgSource.src = '../img/Rotating-Digital-Earth.mp4'
+videoBgSource.src = './img/Rotating-Digital-Earth.mp4'
 videoBgSource.type = 'video/mp4'
 sortButton.textContent = 'A\nZ'
 
