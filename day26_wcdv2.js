@@ -178,7 +178,7 @@ const styles = {
         color: 'white',
         backgroundColor: 'mediumPurple',
         border: '2px solid black',
-        backgroundImage: 'url("img/planets/globuspng.png")',
+        backgroundImage: 'url("img/globuspng.png")',
         backgroundSize: 'cover',
         borderRadius: '10px',
         padding: '10px'
